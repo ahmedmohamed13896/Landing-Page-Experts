@@ -369,7 +369,7 @@ footer p{
     overflow: hidden;
   }
   .mynav .navbar-brand img{
-    width: 100%;
+    max-width: 100%;
   }
   .header-content .header-title{
     font-size: 33px;
@@ -383,7 +383,7 @@ footer p{
     margin-left: 30px;
   }
   .mynav .navbar-brand{
-    width: 260px;
+    max-width: 230px;
   }
   .header-content .p-top{
     font-size: 18px;
