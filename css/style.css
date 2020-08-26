@@ -123,7 +123,8 @@ header .header-content{
   padding: 10px 0;
 }
 .header-content  .header-link .link-txt img{
-  width: 66px;
+  width: 100%;
+  max-width: 66px;
 }
 /*features*/
 .features{
@@ -390,9 +391,12 @@ footer p{
   }
   .header-content .header-link{
     width: 310px;
+    max-width: 100%;
   }
   .header-content .header-link .link-txt{
-    font-size: 25px;
+    font-size: 22px;
   }
 }
+
+
 
